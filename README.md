@@ -17,4 +17,4 @@ No need to install any software, just ope up index.html
 
 ## How to use ?
 
-Use this template to build your own portfolio 
+Use this template to build your own portfolio and then customize
