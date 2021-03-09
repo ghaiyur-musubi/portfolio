@@ -18,3 +18,4 @@ No need to install any software, just ope up index.html
 ## How to use ?
 
 Use this template to build your own portfolio and then customize
+As simple as 1,2,3 !
